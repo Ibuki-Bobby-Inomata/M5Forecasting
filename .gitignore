@@ -1,3 +1,4 @@
 data/
 input/
 .ipynb_checkpoints
+.DS_Store
